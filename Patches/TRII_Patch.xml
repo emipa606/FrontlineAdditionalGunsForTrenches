@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "Ammocrate"]/building/fixedStorageSettings/filter/thingDefs</xpath>
+    <value>
+      <li>TR_AmmoLMGII</li>
+      <li>TR_AmmoMMGII</li>
+      <li>TR_AmmoHMGII</li>
+    </value>
+  </Operation>
+</Patch>
