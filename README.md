@@ -33,7 +33,7 @@ https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
 ======================
 
 =====Changelog V.2=====
-- Bug Fix: Enemys won't spawn with Mgs in Inverntory during raids
+- Bug Fix: Enemys won&apos;t spawn with Mgs in Inverntory during raids
 =====================
 
 =====Changelog=====
