@@ -1,6 +1,6 @@
 # FrontlineAdditionalGunsForTrenches
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545195164
@@ -14,26 +14,17 @@ https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
 - 1.0 version should have the correct rotation of the turret
 - Added the CE-patch into the mod
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/FrontlineAdditionalGunsForTrenches]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 =====Changelog V.3======
 - Fixed Bug: Ammonition of the Mgs is now forbidable
 ======================
 
 =====Changelog V.2=====
-- Bug Fix: Enemys won&apos;t spawn with Mgs in Inverntory during raids
+- Bug Fix: Enemys won't spawn with Mgs in Inverntory during raids
 =====================
 
 =====Changelog=====
@@ -58,7 +49,7 @@ Hope you enjoy it, feel free to leave a comment!
 
 IMPORTANT: Load Additional guns after Trenches.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

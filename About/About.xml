@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Frontline - Additional Guns for Trenches (Continued)</name>
   <packageId>Mlie.FrontlineAdditionalGunsForTrenches</packageId>
@@ -25,7 +25,7 @@
   <incompatibleWith>
     <li>Mlie.FrontlineTrenchesWithoutGuns</li>
   </incompatibleWith>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545195164
 with permission
@@ -37,7 +37,7 @@ If you like the mod, show the original author your appreciation here:
 - 1.0 version should have the correct rotation of the turret
 - Added the CE-patch into the mod
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -46,13 +46,13 @@ If you like the mod, show the original author your appreciation here:
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 =====Changelog V.3======
 - Fixed Bug: Ammonition of the Mgs is now forbidable
 ======================
 
 =====Changelog V.2=====
-- Bug Fix: Enemys won&apos;t spawn with Mgs in Inverntory during raids
+- Bug Fix: Enemys won't spawn with Mgs in Inverntory during raids
 =====================
 
 =====Changelog=====
@@ -77,7 +77,7 @@ Hope you enjoy it, feel free to leave a comment!
 
 IMPORTANT: Load Additional guns after Trenches.
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
