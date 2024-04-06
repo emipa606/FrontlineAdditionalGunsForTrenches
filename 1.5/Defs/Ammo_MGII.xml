@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ========== LMGII ========== -->
+  <ThingDef Name="TR_AmmoLMGII">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>10</stackLimit>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <pathCost>15</pathCost>
+    <defName>TR_AmmoLMGII</defName>
+    <label>Drum magazine for lewis gun</label>
+    <description>Drum magazine for lewis gun</description>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <graphicData>
+      <texPath>Things/Building/Mounted/Ammo/LMGII/TR_Cartridgebelt_LMGII</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>10</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+      <Mass>8.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>AmmoUITR</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <!-- ========== MMGII ========== -->
+  <ThingDef Name="TR_AmmoMMGII">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>10</stackLimit>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <pathCost>15</pathCost>
+    <defName>TR_AmmoMMGII</defName>
+    <label>Drum magazine for DP 1928</label>
+    <description>Drum magazine for DP 1928</description>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <graphicData>
+      <texPath>Things/Building/Mounted/Ammo/MMGII/TR_Cartridgebelt_MMGII</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>15</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+      <Mass>10</Mass>
+    </statBases>
+    <thingCategories>
+      <li>AmmoUITR</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <!-- ========== HMGII ========== -->
+  <ThingDef Name="TR_AmmoHMGII">
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <tickerType>Rare</tickerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <stackLimit>10</stackLimit>
+    <alwaysHaulable>true</alwaysHaulable>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <pathCost>15</pathCost>
+    <defName>TR_AmmoHMGII</defName>
+    <label>Catridge belt for Browning M.2</label>
+    <description>Catridge belt for Browning M.2</description>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <graphicData>
+      <texPath>Things/Building/Mounted/Ammo/HMGII/TR_Cartridgebelt_HMGII</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>20</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>1.5</DeteriorationRate>
+      <Mass>10.5</Mass>
+    </statBases>
+    <thingCategories>
+      <li>AmmoUITR</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+</Defs>
