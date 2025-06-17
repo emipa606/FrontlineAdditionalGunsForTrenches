@@ -1,4 +1,4 @@
-# FrontlineAdditionalGunsForTrenches
+# [Frontline - Additional Guns for Trenches (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2471429755)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,16 +6,14 @@ Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545195164
 with permission
 If you like the mod, show the original author your appreciation here: 
-https://ko-fi.com/wuergerking]![Image](https://i.imgur.com/gmaqOA3.png)
-
+[![Image](https://i.imgur.com/gmaqOA3.png)](https://ko-fi.com/wuergerking)
 
 - All guns should now show range when placed
 - Fixed some icon and blueprint size-differences
 - 1.0 version should have the correct rotation of the turret
-- [strike]Added the CE-patch into the mod[/strike] CE-patches now included in the main CE-mod instead
+- ~~Added the CE-patch into the mod~~ CE-patches now included in the main CE-mod instead
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -55,13 +53,12 @@ IMPORTANT: Load Additional guns after Trenches.
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2471429755]![Image](https://img.shields.io/github/v/release/emipa606/FrontlineAdditionalGunsForTrenches?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/FrontlineAdditionalGunsForTrenches?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2471429755) | tags:  machine gun

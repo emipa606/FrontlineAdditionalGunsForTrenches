@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1271265315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ae31f7aa751242264e2db7786e45ef3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ae31f7aa751242264e2db7786e45ef3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/MMGIITrGun.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/LMGIITrGun_old.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Blueprints/LMGIITrGun_BP.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/BASEHMGIITR_Atlas.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/BASEMGTR_Atlas.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Invis.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Icons/HMGIITrSB_UI.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Sounds/Things/TR_MMGII_Fire.ogg
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Icons/MMGIITrGun_UI.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/HMGIITrGun_Base.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Blueprints/MMGIITrSB_BP_Atlas.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Ammo/HMGII/TR_Cartridgebelt_HMGII.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/MMGIITrGun_old.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Sounds/Things/TR_HMGII_Fire.ogg
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Icons/LMGIITrSB_UI.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Blueprints/LMGIITrSB_BP_Atlas.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Blueprints/MMGIITrGun_BP.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Sounds/Things/TR_LMGII_Fire.ogg
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/HMGIITrGun.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/HMGIITrGun_old.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Blueprints/HMGIITrGun_BP.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Ammo/MMGII/TR_Cartridgebelt_MMGII.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Icons/HMGIITrGun_UI.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Blueprints/HMGIITrSB_BP_Atlas.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Icons/LMGIITrGun_UI.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/LMGIITrGun.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Ammo/LMGII/TR_Cartridgebelt_LMGII.png
+- Assets/Data/Mlie.FrontlineAdditionalGunsForTrenches/Textures/Things/Building/Mounted/Icons/MMGIITrSB_UI.png
+Dependencies: []

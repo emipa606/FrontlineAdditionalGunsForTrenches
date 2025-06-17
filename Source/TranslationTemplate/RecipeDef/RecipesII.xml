@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make catridge belt - Browning M.2 -->
+  <TR_makeHMGIIAmmo.label>make catridge belt - Browning M.2</TR_makeHMGIIAmmo.label>
+  <!-- EN: Making catridge belt for Browning M.2 -->
+  <TR_makeHMGIIAmmo.description>Making catridge belt for Browning M.2</TR_makeHMGIIAmmo.description>
+  <!-- EN: Making catridge belt for Browning M.2. -->
+  <TR_makeHMGIIAmmo.jobString>Making catridge belt for Browning M.2.</TR_makeHMGIIAmmo.jobString>
+  <!-- EN: make drum magazine - lewis gun -->
+  <TR_makeLMGIIAmmo.label>make drum magazine - lewis gun</TR_makeLMGIIAmmo.label>
+  <!-- EN: Making drum magazine for lewis gun. -->
+  <TR_makeLMGIIAmmo.description>Making drum magazine for lewis gun.</TR_makeLMGIIAmmo.description>
+  <!-- EN: Making drum magazine for lewis gun. -->
+  <TR_makeLMGIIAmmo.jobString>Making drum magazine for lewis gun.</TR_makeLMGIIAmmo.jobString>
+  <!-- EN: make drum magazine - DP 1928 -->
+  <TR_makeMMGIIAmmo.label>make drum magazine - DP 1928</TR_makeMMGIIAmmo.label>
+  <!-- EN: Making drum magazine for DP 1928 -->
+  <TR_makeMMGIIAmmo.description>Making drum magazine for DP 1928</TR_makeMMGIIAmmo.description>
+  <!-- EN: Making drum magazine for DP 1928 -->
+  <TR_makeMMGIIAmmo.jobString>Making drum magazine for DP 1928</TR_makeMMGIIAmmo.jobString>
+</LanguageData>

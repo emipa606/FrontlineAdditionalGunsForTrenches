@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Catridge belt for Browning M.2 -->
+  <TR_AmmoHMGII.label>Catridge belt for Browning M.2</TR_AmmoHMGII.label>
+  <!-- EN: Catridge belt for Browning M.2 -->
+  <TR_AmmoHMGII.description>Catridge belt for Browning M.2</TR_AmmoHMGII.description>
+  <!-- EN: Drum magazine for lewis gun -->
+  <TR_AmmoLMGII.label>Drum magazine for lewis gun</TR_AmmoLMGII.label>
+  <!-- EN: Drum magazine for lewis gun -->
+  <TR_AmmoLMGII.description>Drum magazine for lewis gun</TR_AmmoLMGII.description>
+  <!-- EN: Drum magazine for DP 1928 -->
+  <TR_AmmoMMGII.label>Drum magazine for DP 1928</TR_AmmoMMGII.label>
+  <!-- EN: Drum magazine for DP 1928 -->
+  <TR_AmmoMMGII.description>Drum magazine for DP 1928</TR_AmmoMMGII.description>
+</LanguageData>

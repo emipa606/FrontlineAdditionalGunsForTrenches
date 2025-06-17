@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Lewis Gun -->
+  <TR_Base_LMGII.label>Lewis Gun</TR_Base_LMGII.label>
+  <!-- EN: Machine gun with low rate of fire. -->
+  <TR_Base_LMGII.description>Machine gun with low rate of fire.</TR_Base_LMGII.description>
+  <!-- EN: Shots remaining -->
+  <TR_Base_LMGII.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</TR_Base_LMGII.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots remaining -->
+  <TR_Base_LMGII.comps.CompRefuelable.fuelLabel>Shots remaining</TR_Base_LMGII.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new magazine -->
+  <TR_Base_LMGII.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new magazine</TR_Base_LMGII.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Lewis Gun with sandbags -->
+  <TR_Base_LMGIISB.label>Lewis Gun with sandbags</TR_Base_LMGIISB.label>
+  <!-- EN: Machine gun with low rate of fire. -->
+  <TR_Base_LMGIISB.description>Machine gun with low rate of fire.</TR_Base_LMGIISB.description>
+  <!-- EN: Shots remaining -->
+  <TR_Base_LMGIISB.comps.CompRefuelable.fuelGizmoLabel>Shots remaining</TR_Base_LMGIISB.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots remaining -->
+  <TR_Base_LMGIISB.comps.CompRefuelable.fuelLabel>Shots remaining</TR_Base_LMGIISB.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new magazine -->
+  <TR_Base_LMGIISB.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new magazine</TR_Base_LMGIISB.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: 7.92mm Bullet -->
+  <TR_Bullet_LMGII.label>7.92mm Bullet</TR_Bullet_LMGII.label>
+  <!-- EN: Lewis Gun -->
+  <TR_Gun_LMGII.label>Lewis Gun</TR_Gun_LMGII.label>
+  <!-- EN: Machine gun with low rate of fire. -->
+  <TR_Gun_LMGII.description>Machine gun with low rate of fire.</TR_Gun_LMGII.description>
+  <!-- EN: Lewis Gun -->
+  <TR_Gun_LMGII.verbs.Verb_Shoot.label>Lewis Gun</TR_Gun_LMGII.verbs.Verb_Shoot.label>
+</LanguageData>
