@@ -17,7 +17,7 @@
     <li>
       <packageId>Mlie.FrontlineTrenches</packageId>
       <displayName>Frontline - Trenches</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2471428431</steamWorkshopUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3501291601</steamWorkshopUrl>
       <downloadUrl>https://github.com/emipa606/FrontlineTrenches/releases/latest</downloadUrl>
     </li>
   </modDependencies>
@@ -96,5 +96,5 @@ IMPORTANT: Load Additional guns after Trenches.
 [/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2471429755][img]https://img.shields.io/github/v/release/emipa606/FrontlineAdditionalGunsForTrenches?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  machine gun</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
 </ModMetaData>
