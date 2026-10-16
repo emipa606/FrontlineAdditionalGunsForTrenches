@@ -1,21 +1,21 @@
 # [Frontline - Additional Guns for Trenches (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2471429755)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Wuergers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1545195164
 with permission
 If you like the mod, show the original author your appreciation here: 
-[![Image](https://i.imgur.com/gmaqOA3.png)](https://ko-fi.com/wuergerking)
+[![Image](https://img.litet.net/gmaqOA3.png)](https://ko-fi.com/wuergerking)
 
 - All guns should now show range when placed
 - Fixed some icon and blueprint size-differences
 - 1.0 version should have the correct rotation of the turret
 - ~~Added the CE-patch into the mod~~ CE-patches now included in the main CE-mod instead
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 =====Changelog V.3======
 - Fixed Bug: Ammonition of the Mgs is now forbidable
@@ -47,13 +47,13 @@ Hope you enjoy it, feel free to leave a comment!
 
 IMPORTANT: Load Additional guns after Trenches.
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -61,4 +61,4 @@ IMPORTANT: Load Additional guns after Trenches.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/FrontlineAdditionalGunsForTrenches?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2471429755) | tags:  machine gun
+[![Image](https://img.shields.io/github/v/release/emipa606/FrontlineAdditionalGunsForTrenches?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2471429755) | machine gun
